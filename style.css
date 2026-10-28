@@ -1,0 +1,70 @@
+body{
+ background-color: #e8cc51;
+ font-size: 20px;
+ text-align: center;
+ background-image: url("3.avif");
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+ h1{
+     color: #e8cc51;
+     border: 2px solid #e8cc51;
+     color: white;
+     
+ }
+ header{
+     background-color: white;
+     padding: 15px;
+     text-align: left;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+ }
+ 
+ nav{
+     background-color:white;
+     padding: 10px;
+     text-align: left;
+    
+ }
+
+a{
+    color: #66365b;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+footer{
+    background-color:white ;
+    padding: 10px;
+    text-align: center;
+
+}
+  
+p img{
+    margin-right: 30px;
+}
+p{
+    color: white;
+   
+     
+}
+li{
+    color: white;
+    border: 2px solid #92ad5a;
+}
+h3{
+    color: white;
+    border: 5px solid blue;
+    
+}
+h2{ color: white;
+}
+a{
+    color: gray;
+}
+р4{
+    color: black;
+    border: 5px solid blue;
+}
+/*Зроби цей сайт красивим 😉*/
